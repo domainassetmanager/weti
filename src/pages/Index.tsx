@@ -51,7 +51,7 @@ const Index = () => {
         <div className="space-y-6">
           <div className="inline-block">
             <h1 className="text-7xl md:text-8xl lg:text-9xl font-bold text-foreground tracking-tight mb-2 animate-glow">
-              Peni.com
+              Weti.com
             </h1>
             <div className="h-1 w-full bg-gradient-to-r from-transparent via-primary to-transparent" />
           </div>
